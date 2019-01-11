@@ -1,4 +1,4 @@
-`MCMC_pi.py`  is the python code of calculating pi with MC method
+`MCMC_pi.py`  is the python code of calculating $\pi$ with the Monte Carlo method
 `MCMCPI.ipynb` is the jupyter notebook
 
 ---
